@@ -49,7 +49,7 @@ To switch a Markdown file from preview mode to edit mode:
 
 ### Errors and code suggestions (pending)
 
-- `F8` — Go to the next error or warning (NVDA will announce it)
+- `Fn+F8` — Go to the next error or warning 
 - `Shift+F8` — Go to the previous error or warning
 
 ### Setting Caps Lock as the NVDA modifier key
