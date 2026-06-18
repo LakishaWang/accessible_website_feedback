@@ -16,8 +16,8 @@ After this, VS Code will show "Screen Reader Optimized" in the status bar every 
 
 - `Ctrl+` ` — Open a terminal
 - `Fn+Alt+F1` — Accessibility help 
-- `Alt+F2` — Read the full python scripts in accessible view, with code check results
-- `Ctrl+Shift+O` — Move between commands inside the accessible view (pending)
+- `Fn+Alt+F2` — Read the full python scripts in accessible view, with code check results
+- `Ctrl+Shift+O` — Move between commands inside the accessible view (pending)--up or down to move
 - `Escape` — Close the accessible help/view
 
 ### Reading terminal output
@@ -47,10 +47,10 @@ To switch a Markdown file from preview mode to edit mode:
 2. Type: Reopen Editor with Text Editor
 3. Press `Enter`
 
-### Errors and code suggestions (pending)
+### Errors and code suggestions 
 
 - `Fn+F8` — Go to the next error or warning 
-- `Shift+F8` — Go to the previous error or warning
+- `Shift+F8` — Go to the previous error or warning (pending)
 
 ### Setting Caps Lock as the NVDA modifier key
 
