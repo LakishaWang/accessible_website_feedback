@@ -7,7 +7,7 @@
 | # | Topic | Status |
 |---|---|---|
 | 1 | **Keyboard Shortcuts for VS Code**  | Work in Progress |
-| 2 | **Printing Table for Screen Reader Users** | Work in Progress |
+| 2 | **Printing Table for Screen Reader Users** | ✅ Implemented|
 | 3 | **Code Block Labelling** | ✅ Implemented |
 | 4 | **Python Syntax Material** | ✅ Implemented |
 
