@@ -11,7 +11,7 @@
 | 3 | **Code Block Labelling** | ✅ Implemented |
 | 4 | **Python Syntax Material** | ✅ Implemented |
 
-### Deatials
+### Detials
 
 1. [Keyboard Shortcuts for VS Code](/1_vs_code_keyboard_shortcuts.md)— Updated keyboard shortcuts based on testing with NVDA on Windows
 
