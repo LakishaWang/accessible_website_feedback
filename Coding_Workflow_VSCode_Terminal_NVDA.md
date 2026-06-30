@@ -5,7 +5,7 @@ Feel free to adapt it to whatever structure feels most natural to you going forw
 
 The goal of this workflow is to reduce the number of times to switch between panels. Wherever possible, tasks are done from the terminal instead of navigating the VS Code interface.
 
-Tools: Windows / Terminal - GitBash/ VS Code
+Tools: Windows / Terminal - GitBash/ VS Code / NVDA
 
 ---
 
@@ -20,7 +20,7 @@ Tools: Windows / Terminal - GitBash/ VS Code
 - `cd` into this week's folder, for example: `cd ~/laras/CLMT5045-assignments/week3`
 - `ls`  — lists the files already in this week's folder
 
-**TO-DO** to find the directory if we know the name
+**TO-DO** How to find the directory if we know the file name
 
 ## 3. Identify which panel is active
 
@@ -62,7 +62,8 @@ Tools: Windows / Terminal - GitBash/ VS Code
 - Note the line number mentioned in the error
 - `Ctrl+G` — jump back to that line in the editor
 
-TO-DO: test needed
+**TO-DO**: further test needed
+
 ## 9. Edit, save, re-run (the core loop)
 
 - Make the fix in the editor
