@@ -1,6 +1,6 @@
 # accessible_website_feedback
 
-#### as if June 30, 2026
+#### as of June 30, 2026
 
 ## Table of Contents
 
