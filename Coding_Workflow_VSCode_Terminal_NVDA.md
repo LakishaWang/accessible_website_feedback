@@ -17,8 +17,10 @@ Tools: Windows / Terminal - GitBash/ VS Code
 ## 2. Confirm and navigate to the correct working directory
 
 - `pwd` — confirms the current directory; NVDA reads the full path aloud
-- `cd` into this week's folder, for example: `cd ~/laras/CLMT5045/week3`
+- `cd` into this week's folder, for example: `cd ~/laras/CLMT5045-assignments/week3`
 - `ls`  — lists the files already in this week's folder
+
+**TO-DO** to find the directory if we know the name
 
 ## 3. Identify which panel is active
 
@@ -43,6 +45,8 @@ Tools: Windows / Terminal - GitBash/ VS Code
 - `Ctrl+F` — search for a specific word, variable name, or character within the current file
 - `Ctrl+G` — jump to a specific line number; NVDA announces the new position
 
+**TO-DO**: turn on the autocomplete
+
 ## 7. Run the script
 
 - In the terminal: `python filename.py`
@@ -52,12 +56,13 @@ Tools: Windows / Terminal - GitBash/ VS Code
 
 ## 8. Check for errors
 
-- `F8` — jump to the next error or warning; NVDA announces it
+- `Fn+F8` — jump to the next error or warning; NVDA announces it
 - `Shift+F8` — jump to the previous error or warning
 - `Ctrl+F` — alternatively, search for a known error keyword in the file
 - Note the line number mentioned in the error
 - `Ctrl+G` — jump back to that line in the editor
 
+TO-DO: test needed
 ## 9. Edit, save, re-run (the core loop)
 
 - Make the fix in the editor
