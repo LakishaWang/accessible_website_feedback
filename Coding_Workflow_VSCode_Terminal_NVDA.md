@@ -25,11 +25,11 @@ Tools: Windows / Terminal - GitBash/ VS Code
 - `Fn+Alt+F1` — Accessibility Help, announces your current location and available actions
 - `Fn+F6` / `Shift+F6` — move focus between panels (editor, terminal, sidebar) if needed
 
-## 4. Create or open a file — prefer the terminal over GUI navigation
+## 4. Create or open a file — prefer the terminal over VS Code navigation
 
-- Create a new file directly from the terminal: `ni filename.py` (PowerShell) or `touch filename.py` (Git Bash)
+- Create a new file directly from the terminal: `touch filename.py` (Git Bash)
 - Open a file directly into the editor from the terminal: `code filename.py`
-- Alternative — from within the editor: `Ctrl+P`, type the filename, `Enter`
+- Alternative — from within the editor: `Ctrl+P`, type the filename, `Enter` / `Ctrl+N` — Create a new file
 
 ## 5. Working with open files in the editor
 
