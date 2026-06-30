@@ -1,4 +1,5 @@
-# 1. Keyboard Shortcuts for VS Code (Working in progress)
+# Keyboard Shortcuts for VS Code (Working in progress)
+Incorporated into and replaced by the 1_Coding_Workflow file.
 
 ### Initial setup
 
