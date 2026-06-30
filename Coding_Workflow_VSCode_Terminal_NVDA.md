@@ -12,7 +12,7 @@ Tools: Windows / Terminal - GitBash/ VS Code
 ## 1. Open VS Code 
 
 - Lauch VS Code
-- `Ctrl+` ` - open the integrate terminal inside VS Code
+- `Ctrl+` `  - open the integrate terminal inside VS Code
 
 ## 2. Confirm and navigate to the correct working directory
 
