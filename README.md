@@ -11,7 +11,7 @@
 | 3 | **Code Block Labelling** | ✅ Implemented |
 | 4 | **Python Syntax Material** | ✅ Implemented |
 
-### Detials
+### Details
 
 1. [Coding Workflow:VS Code + Terminal + NVDA](/1_Coding_Workflow_VSCode_Terminal_NVDA.md)— A terminal-first, step-by-step workflow covering from opening VS Code through running scripts, debugging, and packaging output for submission, replacing the original keyboard shortcuts reference with a workflow organized by actual usage sequence.
 
